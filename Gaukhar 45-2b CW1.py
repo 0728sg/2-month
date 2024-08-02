@@ -21,3 +21,4 @@
 # git add . :добавляет файлы
 # git commit -m 'название'
 # git push origin master\main
+git rm --cached namefile : стирает файл
