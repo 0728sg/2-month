@@ -20,4 +20,3 @@ class Book:
 War_and_love = Book('war and love', 'Lev Tolstoy', 'yellow')
 print(len(War_and_love))
 War_and_love.info()
-
