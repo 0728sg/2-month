@@ -21,4 +21,9 @@
 # git add . :добавляет файлы
 # git commit -m 'название'
 # git push origin master\main
-git rm --cached namefile : стирает файл
+# git rm --cached  namefile : стирает файл
+# git rm --cached -r namefile
+# git clone url reposytory скачать чей то репозиторий
+# cd .. :выйти с репозитория
+# git remote remove origin : отвязывает проект от репозитория
+
