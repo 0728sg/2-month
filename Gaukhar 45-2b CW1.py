@@ -26,4 +26,10 @@
 # git clone url reposytory скачать чей то репозиторий
 # cd .. :выйти с репозитория
 # git remote remove origin : отвязывает проект от репозитория
-
+# git status
+# git status -s
+# git branch :pokazivaet vetku
+# git branch name : sozdaet vetku
+# git checkout name :perecklyuchaet vetki
+# git merge name: sliyaet vetku kotoruyu vi napisali v vetku v kotoroy nahoditec
+# git pull
